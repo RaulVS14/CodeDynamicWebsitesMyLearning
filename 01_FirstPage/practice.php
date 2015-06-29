@@ -7,3 +7,4 @@
 		<?php print('Hello friends!'); ?>
 	</body>
 </html>
+F

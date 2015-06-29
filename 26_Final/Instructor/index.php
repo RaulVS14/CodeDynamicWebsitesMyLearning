@@ -1,7 +1,7 @@
 <?php
 	define("TITLE", "Home | Franklin's Fine Dining");
 	
-	include('includes/header.php');
+	include('/includes/header.php');
 ?>
 
 	<div id="philosophy">
@@ -14,4 +14,4 @@
 		<hr>
 	</div><!-- philosophy -->
 			
-<?php include('includes/footer.php'); ?>
+<?php include('/includes/footer.php'); ?>

@@ -14,10 +14,10 @@
 <html>
 	<head>
 		<title>Get Your Hands Dirty: <!-- TITLE --></title>
-		<link href="../assets/styles.css" rel="stylesheet">
-		<script type="text/javascript" src="../assets/syntaxhighlighter/scripts/shCore.js"></script>
-		<script type="text/javascript" src="../assets/syntaxhighlighter/scripts/shBrushPhp.js"></script>
-		<link type="text/css" rel="stylesheet" href="../assets/syntaxhighlighter/styles/shCoreDefault.css"/>
+		<link href="/assets/styles.css" rel="stylesheet">
+		<script type="text/javascript" src="/assets/syntaxhighlighter/scripts/shCore.js"></script>
+		<script type="text/javascript" src="/assets/syntaxhighlighter/scripts/shBrushPhp.js"></script>
+		<link type="text/css" rel="stylesheet" href="/assets/syntaxhighlighter/styles/shCoreDefault.css"/>
 		<script type="text/javascript">SyntaxHighlighter.all();</script>
 	</head>
 	<body>
