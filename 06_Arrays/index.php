@@ -2,7 +2,7 @@
 	define("TITLE", "Arrays");
 	$my_name	= "Brad Hussey";
 	$lesson_num	= 6;
-	
+	$ref=false;
 	if (isset ($_GET['ref'])) {
 		$ref = $_GET['ref'];
 	}
@@ -20,7 +20,7 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			

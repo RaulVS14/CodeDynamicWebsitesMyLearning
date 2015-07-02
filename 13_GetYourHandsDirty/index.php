@@ -20,7 +20,7 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			
@@ -92,8 +92,8 @@
 			<a href="practice.php" class="button">Check out your example</a>
 			
 			<div class="navs cf">
-				<a href="/12_Elseif" class="button prev">Previous Lecture</a>
-				<a href="/14_ComparisonOperators" class="button next">Next Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/12_Elseif" class="button prev">Previous Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/14_ComparisonOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

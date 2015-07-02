@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			
@@ -97,8 +97,8 @@ if (expression) {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/09_GetYourHandsDirty" class="button prev">Previous Lecture</a>
-				<a href="/11_Else" class="button next">Next Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/09_GetYourHandsDirty" class="button prev">Previous Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/11_Else" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

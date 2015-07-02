@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			
@@ -103,8 +103,8 @@ if ($username == 'johnnyboy' && $password == 'qwerty') {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/14_ComparisonOperators" class="button prev">Previous Lecture</a>
-				<a href="/16_ArithmeticOperators" class="button next">Next Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/14_ComparisonOperators" class="button prev">Previous Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/16_ArithmeticOperators" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

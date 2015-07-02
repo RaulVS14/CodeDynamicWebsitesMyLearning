@@ -15,11 +15,11 @@
 <html>
 	<head>
 		<title>PHP <!-- PAGE TITLE --></title>
-		<link href="/assets/styles.css" rel="stylesheet">
+		<link href="../assets/styles.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			

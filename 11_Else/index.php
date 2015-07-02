@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<a href="/" title="Back to directory" id="logo">
+			<a href="../" title="Back to directory" id="logo">
 				<img src="../assets/img/logo.png" alt="PHP">
 			</a>
 			
@@ -75,8 +75,8 @@ if ($fav_fruit = "pineapple")
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/10_IfStatements" class="button prev">Previous Lecture</a>
-				<a href="/12_Elseif" class="button next">Next Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/10_IfStatements" class="button prev">Previous Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/12_Elseif" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>

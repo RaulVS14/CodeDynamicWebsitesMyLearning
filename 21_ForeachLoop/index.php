@@ -28,7 +28,7 @@
 				
 				<aside>
 					<h6>Need a refresher on arrays?</h6>
-					<p>Head back to the <a href="/06_Arrays?ref=21_ForeachLoop">arrays lectures</a> to refresh your memory.</p>
+					<p>Head back to the <a href="/CodeDynamicWebsites/CodeDynamicWebsites/06_Arrays?ref=21_ForeachLoop">arrays lectures</a> to refresh your memory.</p>
 				</aside>
 				
 				<p>The syntax looks like so:</p>
@@ -73,8 +73,8 @@ foreach ($moustaches as $moustache) {
 			<a href="final.php" class="button">Check out the final example</a>
 			
 			<div class="navs cf">
-				<a href="/20_ForLoop" class="button prev">Previous Lecture</a>
-				<a href="/22_DoWhileLoop" class="button next">Next Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/20_ForLoop" class="button prev">Previous Lecture</a>
+				<a href="/CodeDynamicWebsites/CodeDynamicWebsites/22_DoWhileLoop" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>
